@@ -1,10 +1,10 @@
+<div align=center> 
 # IPVC x FTKode: "Order management"
   
-![](https://komarev.com/ghpvc/?username=fneves7-IPVC-Projeto-4&label=Visualizations)
+  ![](https://komarev.com/ghpvc/?username=fneves7-IPVC-Projeto-4&label=Visualizations)
 
-![](https://github.com/fneves7/IPVC-Projeto-4-Gestao-de-eventos-e-stocks/_extra/PosterP4_17998_FTKODE.jpg?raw=true)
+  ![]([https://github.com/fneves7/IPVC-Projeto-4-Gestao-de-eventos-e-stocks/_extra/PosterP4_17998_FTKODE.jpg](https://github.com/Fneves7/IPVC-Projeto-4-Gestao-de-eventos-e-stocks/blob/master/_extra/PosterP4_17998_FTKODE.jpg)?raw=true)
 
-<div align=center> 
   <h2>Project made with:</h2>
   <p> <img src="https://skillicons.dev/iconsi=html,php,css,js,bootstrap,mysql,laravel" /> <p/>
 </div>
