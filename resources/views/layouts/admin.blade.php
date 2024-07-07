@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Gestão de Eventos e Stocks @yield('title')</title>
     @include('partials.css')
+    @include('partials.js')
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -235,4 +236,5 @@
 </div>
 <!-- ./wrapper -->
 </body>
+@include('partials.scripts')
 </html>

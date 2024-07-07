@@ -203,7 +203,7 @@
                 @endcan
 
                 @can('a-w-s')
-                {{--                produtos em falta--}}
+                {{--produtos em falta--}}
                 @if($fewprod->count() >= 1)
                     <div class="card">
                         <div class="card-header bg-gradient-warning">
@@ -257,4 +257,3 @@
     </div>
     </div>
 @endsection
-@include('partials.js')
